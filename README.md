@@ -1,4 +1,4 @@
-# shared.dorajs.com
+# share.dorajs.com
 
 ## Project setup
 ```
