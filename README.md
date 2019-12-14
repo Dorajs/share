@@ -1,4 +1,4 @@
-# dora-web
+# shared.dorajs.com
 
 ## Project setup
 ```
