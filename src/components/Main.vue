@@ -69,8 +69,9 @@ export default {
   height: 100%;
 }
 .content {
-  min-width: 400px;
+  /* min-width: 400px; */
 }
+
 .card-content {
   text-align: center;
 }
