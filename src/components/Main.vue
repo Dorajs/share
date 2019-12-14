@@ -69,7 +69,8 @@ export default {
   height: 100%;
 }
 .content {
-  /* min-width: 400px; */
+  min-width: 300px;
+  margin: auto 10px;
 }
 
 .card-content {
